@@ -1,0 +1,2 @@
+# ITKFilterVTKPaint
+使用ITK处理图像VTK显示图像的QT程序
